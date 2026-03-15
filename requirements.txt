@@ -1,0 +1,8 @@
+# Fable Text.big Parser - Requirements
+# Python 3.7+
+
+# GUI library (usually comes with Python)
+# tkinter is part of the standard library on most systems
+# On Ubuntu/Debian: sudo apt-get install python3-tk
+# On Fedora: sudo dnf install python3-tkinter
+# On macOS: Usually included with Python installation
